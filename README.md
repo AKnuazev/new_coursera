@@ -1,2 +1,1 @@
-# new_coursera
-It`s time for Coursera to move over
+# TODO: add info to README
